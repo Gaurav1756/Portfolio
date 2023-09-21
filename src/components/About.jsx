@@ -25,9 +25,15 @@ const About = () => {
         <br /> */}
 
         <p className="text-xl">
-          I am Full stack web developer with good knowlwdge of HTML, CSS, Javacsript, React Js, Node JS, 
-          MongoDB and SQL. I am from Uttar Pradesh. Currently I am pursuing B.Tech from lovely Professional 
-          University.
+        Hello, my name is Gaurav Kumar Senger, and I'm excited to be here to discuss my qualifications as a Full Stack Web developer. I have a strong foundation in web development, with extensive knowledge in HTML, CSS, and JavaScript, which I've used to create interactive and responsive user interfaces. 
+
+I'm also proficient in modern front-end frameworks like React.js, enabling me to build dynamic and efficient web applications. On the back-end, I have experience with Node.js, which allows me to develop robust server-side solutions and APIs.
+
+In addition to my web development skills, I have a background in C++ and MySQL. This combination of languages and databases has allowed me to work on diverse projects, from web applications to software development.Currently I am working on my skills in PHP.
+
+I'm passionate about crafting elegant and user-focused web experiences while ensuring efficient server-side functionality. I believe that a holistic understanding of both front-end and back-end technologies is crucial for delivering high-quality web solutions.
+
+I'm looking forward to discussing how my skills and experience can contribute to your team's success.
         </p>
       </div>
     </div>

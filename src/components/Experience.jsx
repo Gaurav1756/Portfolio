@@ -7,7 +7,8 @@ import reactImage from "../assets/react.png";
 import nodejs from "../assets/nodejs.png";
 import mysql from "../assets/mysql.png";
 import github from "../assets/github.png";
-import tailwind from "../assets/tailwind.png";
+import cplusplus from "../assets/c++.jpg";
+import php from "../assets/php.png";
 
 const Experience = () => {
   const techs = [
@@ -35,12 +36,12 @@ const Experience = () => {
       title: "React",
       style: "shadow-blue-600",
     },
-    // {
-    //   id: 5,
-    //   src: tailwind,
-    //   title: "Tailwind",
-    //   style: "shadow-sky-400",
-    // },
+    {
+      id: 5,
+      src: cplusplus,
+      title: "C++",
+      style: "shadow-sky-400",
+    },
     {
       id: 6,
       src: nodejs,
@@ -57,6 +58,12 @@ const Experience = () => {
       id: 8,
       src: github,
       title: "GitHub",
+      style: "shadow-gray-400",
+    },
+    {
+      id: 9,
+      src: php,
+      title: "PHP",
       style: "shadow-gray-400",
     },
   ];

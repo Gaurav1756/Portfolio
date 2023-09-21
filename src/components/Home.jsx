@@ -16,7 +16,7 @@ const Home = () => {
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
             I am pursuing B.Tech from Lovely Professional University.
-            Currently, I love to work on web application using technologies like
+            I love to work on web application using technologies like
             React, Node, MongoDB.
           </p>
 
